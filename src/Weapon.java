@@ -13,7 +13,7 @@ public class Weapon {
     public String getName() {
         return name;
     }
-
+    //Здесь ошибка
     public void setName(String name) {
         this.name = name;
     }
