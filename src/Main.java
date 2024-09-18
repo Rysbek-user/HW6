@@ -26,8 +26,8 @@ public class Main {
         skeleton1.printInfo();
 
         Skeleton skeleton2 = new Skeleton();
-        skeleton1.setHealth(200);
-        skeleton1.setDamage(40);
+        skeleton2.setHealth(200);
+        skeleton2.setDamage(40);
 
         Weapon skeleton2Weapon = new Weapon();
         skeleton2Weapon.setType(WeaponType.MAGIC);

@@ -14,7 +14,7 @@ public class Weapon {
         return name;
     }
 
-    public void setName(String weaponName) {
+    public void setName(String name) {
         this.name = name;
     }
 }
